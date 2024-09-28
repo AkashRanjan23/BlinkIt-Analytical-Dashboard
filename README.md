@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="C:\Users\akash\Downloads\SnapSave.io-BlinkitLogoAnimation_Stompy-ezgif.com-video-to-gif-converter.gif" alt="GIF description" />
+  <img src="![SnapSave io-BlinkitLogoAnimation_Stompy-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d8fda8b7-0cbd-4ce9-a885-6ef571fcce3f)
+.gif" alt="GIF description" />
 </div>
 
 # BlinkIt Sales Analysis Dashboard
