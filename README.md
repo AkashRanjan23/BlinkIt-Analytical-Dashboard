@@ -1,5 +1,5 @@
-https://github.com/user-attachments/assets/1ebb597e-94ca-46d3-a3f4-11ec3b6532a1
 
+![SnapSave io-BlinkitLogoAnimation_Stompy-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e44d49b4-76f1-4ad5-8d7f-d87480498291)
 
 # BlinkIt Sales Analysis Dashboard
 
