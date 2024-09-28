@@ -1,5 +1,6 @@
-
-![SnapSave io-BlinkitLogoAnimation_Stompy-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e44d49b4-76f1-4ad5-8d7f-d87480498291)
+<div align="center">
+  <img src="C:\Users\akash\Downloads\SnapSave.io-BlinkitLogoAnimation_Stompy-ezgif.com-video-to-gif-converter.gif" alt="GIF description" />
+</div>
 
 # BlinkIt Sales Analysis Dashboard
 
